@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/StartScene.unity
+    guid: 556f9ffb85048524d8bea2593d584b7c
+  - enabled: 1
+    path: Assets/Scenes/Main/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Theory/TheoryThemes.unity
+    guid: d4ea5be88a4b73d438b05eb227ef132e
+  - enabled: 1
+    path: Assets/Scenes/Theory/TheoryReader.unity
+    guid: 1a10a8aece686eb4189f9a5508d2a826
+  - enabled: 1
+    path: Assets/Scenes/Test/TestQuestion.unity
+    guid: c3420a549ae345044bf7d471e478a458
+  - enabled: 1
+    path: Assets/Scenes/Test/TestResults.unity
+    guid: c4fea4bb67052634f9a0a897cd709378
+  - enabled: 1
+    path: Assets/Scenes/Test/TestThemes.unity
+    guid: 8fa435dfa819b2143b71b8be8708c1e6
+  - enabled: 1
+    path: Assets/Scenes/Rewards/Rewards.unity
+    guid: 7be8ca1a68c917f4bb36c3c9a710ca5a
+  - enabled: 1
+    path: Assets/Scenes/Sokoban/Sokoban.unity
+    guid: cda63d44cfee36d43a12587d42f200fc
+  - enabled: 1
+    path: Assets/Scenes/Rewards/Shop.unity
+    guid: 33acb4ad5d421264a9a5ecf3638388b5
+  - enabled: 1
+    path: Assets/Scenes/Shmup/Shmup.unity
+    guid: 7d374a7f94314e84280926b10dc450fc
+  m_configObjects: {}
